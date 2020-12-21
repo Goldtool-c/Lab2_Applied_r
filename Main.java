@@ -126,6 +126,7 @@ public class Main extends Application {
                 temp[0] =Double.parseDouble(newValue);
             }
         });
+        //M1
         SelectM1.setOnAction(event ->
         {
             mem1[0] =temp[0];
